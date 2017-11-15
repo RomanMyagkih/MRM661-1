@@ -1,0 +1,10 @@
+In this project include:
+#include <QTextEdit>
+#include <fstream>
+#include <QFile>
+#include <QFileDialog>
+#include <QDebug>
+#include <QMessageBox>
+#include <QVector>
+#include <QTextEdit>
+#include <QDataStream>
